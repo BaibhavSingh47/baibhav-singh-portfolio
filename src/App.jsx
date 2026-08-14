@@ -1,0 +1,10 @@
+import { BrowserRouter } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import About from './components/About';
+import Tech from './components/Tech';
+import Projects from './components/Projects';
+import Experience from './components/Experience';
+import Contact from './components/Contact';
+const App = () => <BrowserRouter><div className="min-h-screen bg-[#050816] text-white"><Navbar/><main><Hero/><About/><Tech/><Experience/><Projects/><Contact/></main></div></BrowserRouter>;
+export default App;
