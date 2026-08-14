@@ -40,7 +40,7 @@ const Projects = () => (
     </h2>
 
     <p className="mt-5 max-w-3xl text-white/60">
-      My projects and applications are showcased here.
+      A selection of projects and applications I've worked on.
     </p>
 
     <div className="mt-10 grid gap-6 md:grid-cols-2 xl:grid-cols-3">

@@ -92,8 +92,7 @@ const templateProjects = [
   {
     id: "template-6",
     name: "Space Hub",
-    description:
-      "Space exploration themed web experience from the original portfolio template.",
+    description: "Space exploration themed web experience.",
     tags: ["React", "UI"],
     image: space,
     repo: "",
