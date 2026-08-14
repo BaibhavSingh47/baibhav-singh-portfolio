@@ -37,12 +37,69 @@ const personalProjects = [
 ];
 
 const templateProjects = [
-  { id: 'template-1', name: 'KomiKult', description: 'Comic characters list app displaying Marvel characters.', tags: ['React', 'MongoDB', 'Tailwind'], image: komikult, repo: 'https://github.com/shaqdeff/KomiKult', demo: 'https://shaqdeff.github.io/KomiKult/', template: true },
-  { id: 'template-2', name: 'Leaderboard', description: 'Leaderboard list app that displays scores submitted by different players.', tags: ['React', 'REST API', 'SCSS'], image: leaderboard, repo: 'https://github.com/shaqdeff/Leaderboard', demo: 'https://shaqdeff.github.io/Leaderboard/', template: true },
-  { id: 'template-3', name: 'Math Magicians', description: 'Single-page calculator application built with React.', tags: ['React', 'CSS'], image: math, repo: 'https://github.com/shaqdeff/Math-Magicians', demo: 'https://inspiring-medovik-37d3b3.netlify.app/', template: true },
-  { id: 'template-4', name: 'Movie Metro', description: "Single-page application for searching movie and show ratings and details.", tags: ['React', 'API', 'CSS'], image: movie, repo: 'https://github.com/shaqdeff/Movie-Metro', demo: 'https://movie-metro.netlify.app/', template: true },
-  { id: 'template-5', name: 'Nyeusi Fest Site', description: 'Demo concert website for a music festival called Nyeusi.', tags: ['React', 'CSS'], image: nyeusi, repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site', demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/', template: true },
-  { id: 'template-6', name: 'Space Hub', description: 'Space exploration themed web experience from the original portfolio template.', tags: ['React', 'UI'], image: space, repo: '', demo: '', template: true },
+  {
+    id: "template-1",
+    name: "KomiKult",
+    description: "Comic characters list app displaying Marvel characters.",
+    tags: ["React", "MongoDB", "Tailwind"],
+    image: komikult,
+    repo: "",
+    demo: "",
+    template: true,
+  },
+  {
+    id: "template-2",
+    name: "Leaderboard",
+    description:
+      "Leaderboard list app that displays scores submitted by different players.",
+    tags: ["React", "REST API", "SCSS"],
+    image: leaderboard,
+    repo: "",
+    demo: "",
+    template: true,
+  },
+  {
+    id: "template-3",
+    name: "Math Magicians",
+    description: "Single-page calculator application built with React.",
+    tags: ["React", "CSS"],
+    image: math,
+    repo: "",
+    demo: "",
+    template: true,
+  },
+  {
+    id: "template-4",
+    name: "Movie Metro",
+    description:
+      "Single-page application for searching movie and show ratings and details.",
+    tags: ["React", "API", "CSS"],
+    image: movie,
+    repo: "",
+    demo: "",
+    template: true,
+  },
+  {
+    id: "template-5",
+    name: "Nyeusi Fest Site",
+    description: "Demo concert website for a music festival called Nyeusi.",
+    tags: ["React", "CSS"],
+    image: nyeusi,
+    repo: "",
+    demo: "",
+    template: true,
+  },
+  {
+    id: "template-6",
+    name: "Space Hub",
+    description:
+      "Space exploration themed web experience from the original portfolio template.",
+    tags: ["React", "UI"],
+    image: space,
+    repo: "",
+    demo: "",
+    template: true,
+  },
 ];
 
 export const projects = [...personalProjects, ...templateProjects];
