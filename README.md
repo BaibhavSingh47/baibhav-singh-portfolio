@@ -1,100 +1,89 @@
-# Portfolio Template
+# Baibhav Singh — Full Stack Developer Portfolio
 
-https://github.com/shaqdeff/Portfolio-Template/assets/92020713/eed76a82-e59d-440b-a04c-a2dc00a508b7
+A modern personal portfolio website for **Baibhav Singh**, a fresher and aspiring Full Stack Developer focused on building responsive and practical web applications.
 
-![portfolio-phone](https://github.com/shaqdeff/Portfolio-Template/assets/92020713/e41ed31c-50e5-40d3-a74f-9c0eb053fe7f)
-![portfolio-phone-3](https://github.com/shaqdeff/Portfolio-Template/assets/92020713/e8c23aa7-ac27-48fc-bf66-50ab00e3a64f)
+## 👨‍💻 About Me
 
-I created this portfolio to use as my own but ended up doing something else entirely. However, instead of keeping it buried, I decided to put it up here on GitHub as an open-source resource to help individuals to learn, adapt, and create their own portfolios. Feel free to customize and modify the theme and components to suit your personal style and branding preferences.
+I am a Computer Science and Engineering student and an aspiring Full Stack Developer with hands-on experience in modern web development. I enjoy building responsive user interfaces, REST APIs, authentication systems, and full-stack applications.
 
-## License and Attribution
+📧 **Email:** baibhavsingh894@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/baibhav-singh-b681a3309
 
-The code in this repository is released under the [MIT](https://github.com/shaqdeff/Portfolio-Template/blob/90213d4887074d1d29434f706afad3d12fa33f5f/MIT.md) License, which grants you the freedom to use, modify, and distribute the template as your own. However, if you choose to use the site's design largely unmodified, kindly credit me as the original designer of the site.
+## 🛠️ Tech Stack
 
-All projects and experiences included in this portfolio are the result of my own efforts and creativity. Please refrain from presenting them as your own.
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
+- **Backend:** Node.js, Express.js, REST API
+- **Programming:** Java, Python, JavaScript
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code, Postman
+- **Concepts:** OOP, Data Structures & Algorithms, API Integration, Responsive Web Design
 
-## Built With
+## 💼 Experience
 
-- React.js
-- Three.js
-- Framer Motion
-- TailwindCSS
+### Full Stack Developer Intern — Codveda Technologies
+**March 2026 – April 2026 | Remote**
 
-## Live Demo
+- Worked on real-world web development projects using MERN Stack technologies.
+- Developed responsive and user-friendly web applications.
+- Implemented backend functionality, API integration, and authentication systems.
+- Strengthened frontend and backend development skills through hands-on software engineering tasks.
 
-- Click [here](https://shaq-portfolio.netlify.app/) to view the live demo.
+## 🚀 Projects
 
-## Getting Started
+### Accommodation Booking Platform — MERN Stack
+A full-stack accommodation booking application with responsive UI, secure authentication, REST APIs, booking functionality, and user management features.
 
-To get started with this portfolio template, follow these simple steps:
+### Resume Builder Web Application — React.js + Node.js
+A responsive resume builder application that allows users to create professional resumes dynamically through an interactive interface.
 
-### Prerequisites
+> The portfolio also retains the original template's existing project content where applicable; project information belonging to the original template author should not be presented as Baibhav Singh's own work.
 
-Make sure you have node `16.0.0` or higher and npm `9.0.0` or higher installed.
+## 🎓 Education
 
-### Setup
+**B.Tech in Computer Science and Engineering**  
+Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow  
+**Expected:** 2027
 
-- With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/Portfolio-Template/archive/refs/heads/main.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+## 🏆 Certifications & Interests
 
-```
-git clone https://github.com/shaqdeff/Portfolio-Template.git
-```
+- Completed Full Stack Development Internship at Codveda Technologies
+- Active learner in Software Engineering and Web Development
+- Interested in Open Source Contribution and Problem Solving
 
-- Once the files are on your machine, open the **Portfolio-Template** folder in [Visual Studio Code](https://code.visualstudio.com/download).
+## ⚙️ Run Locally
 
-```
-cd Portfolio-Template && code .
-```
+Make sure Node.js and npm are installed, then run:
 
-## Install
-
-- After opening the files in Visual Studio Code, open the **VS Code** integrated terminal and run the following commands:
-
-```
+```bash
 npm install
-```
-
-This will install all the packages and dependencies used in the project.
-
-## Usage
-
-- Run the following command to start a local server:
-
-```
 npm run dev
 ```
 
-This will open up the project on a browser on `http://localhost:5173/`
+The development server will normally be available at:
 
-## Build
-
-- To create a production build:
-
+```text
+http://localhost:5173/
 ```
+
+## 📦 Production Build
+
+```bash
 npm run build
-```
-
-- To preview the site as it will appear once deployed:
-
-```
 npm run preview
 ```
 
-## Authors
+The production build is generated in the `dist` directory.
 
-👤 **Shaquille Ndunda**
+## 🎨 Original Template Attribution
 
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+This portfolio is based on the open-source **Portfolio Template** by **Shaquille Ndunda (@shaqdeff)**. The original template was released under the MIT License.
 
-## Feedback and Contributions
+The design/code foundation has been customized for Baibhav Singh. Original template attribution and license information are retained in this repository's `MIT.md` file.
 
-If you have any feedback, suggestions, or would like to contribute to this project, your involvement is highly valued. Feel free to open an [issue](../../issues/) or submit a pull request with your ideas and enhancements. Remember, this template is a starting point, and the true magic lies in making it your own. Enjoy the journey of creating a stunning portfolio that represents your unique talents and accomplishments!
+## 📄 License
 
-Happy coding and showcasing!
+See [`MIT.md`](./MIT.md) for the original template's MIT License and attribution terms.
 
-## Show your support
+---
 
-Give a ⭐️ if you like this project!
+⭐ Built and customized for **Baibhav Singh**.
