@@ -55,18 +55,6 @@ const Contact = () => {
                 linkedin.com/in/baibhav-singh-b681a3309
               </a>
             </p>
-
-            <p>
-              💻{" "}
-              <a
-                href="https://github.com/BaibhavSingh47"
-                target="_blank"
-                rel="noreferrer"
-                className="hover:text-violet-300"
-              >
-                github.com/BaibhavSingh47
-              </a>
-            </p>
           </div>
         </div>
 
